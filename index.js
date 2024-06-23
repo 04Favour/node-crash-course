@@ -1,2 +1,2 @@
-const test = require('./test.js');
-console.log(test.writeFile);
+const test = require('./os/os.js');
+console.log(test.remover);
